@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setuptools.setup(
     name='lxgen-provider-collection',
-    version='0.1.0',
+    version='0.2.0',
     author='Iverian',
     author_email='41ways1ucky@gmail.com',
     description='provider collection for package lxgen',
